@@ -1,0 +1,1 @@
+En esta página voy a intentar mostrar un poco lo que es la barbería de un amigo, sus servicios, contactos y productos. También agregué la función form, para crear una especie de login para poder sacar turno.
